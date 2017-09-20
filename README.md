@@ -1,8 +1,11 @@
 # Medium_Crawl
 
 This scraper has two versions:
+
 1.Promises
+
 2.Async
+
 
 Current branch is Promise Version.
 
