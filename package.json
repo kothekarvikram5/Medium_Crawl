@@ -1,0 +1,17 @@
+{
+    "name": "medium_crawler",
+    "version": "1.0.0",
+    "description": "crawling popular blogging website ​https://medium.com​ and find all possible hyperlinks present within ​https://medium.com​ website and generate a CSV output.",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: No test specified\" && exit 1 "
+    },
+    "author": "Vikram Kothekar",
+    "license":"ISC",
+    "dependencies": {
+        "lodash": "^4.17.2",
+        "promise": "^7.1.1",
+        "scraperjs": "^1.2.0"
+      }
+}
